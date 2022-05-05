@@ -1,4 +1,5 @@
 # change-background-color
+[Acessar App](https://627425002299c900b3cb8392--fluffy-axolotl-6391ff.netlify.app/)
 ## Estudos iniciais de React.
 Pequena aplicação desenvolvida para praticar alguns conceitos iniciais do React, como:
 - _Components_;
